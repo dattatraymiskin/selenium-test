@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"635f167b-2a47-41c2-abb6-005660705951","feature":"Login to Saucelabs website","scenario":"Validating the price of selected product is correct or not","start":1722322194013,"group":36,"content":"","tags":"","end":1722322200717,"className":"failed"},{"id":"31324c13-282b-4cd2-b537-7b9f19c01771","feature":"Login to Saucelabs website","scenario":"Validating Login process for User with valid product value","start":1722322194107,"group":37,"content":"","tags":"","end":1722322198159,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":36,"content":"Thread[#36,ForkJoinPool-2-worker-1,5,main]"},{"id":37,"content":"Thread[#37,ForkJoinPool-2-worker-2,5,main]"}]);
+});
